@@ -1,0 +1,16 @@
+{
+  "name": "caetvic-buttoner",
+  "author": "Victor Matheus",
+  "version": "1.0.3",
+  "description": "Example of bundling Angular libraries",
+  "license": "MIT",
+  "devDependencies": {
+    "@angular/core": "^5.0.0",
+    "@angular/compiler": "^5.0.0",
+    "@angular/compiler-cli": "^5.0.0",
+    "rxjs": "^5.5.2",
+    "zone.js": "^0.8.14",
+    "typescript": "~2.4.2",
+    "rollup": "^0.51.8"
+  }
+}

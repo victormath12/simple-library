@@ -1,0 +1,14 @@
+{
+  "name": "caetvic-buttoner",
+  "author": "Jason Aden",
+  "version": "1.0.3",
+  "license": "MIT",
+  "module": "caetvic-buttoner.es5.js",
+  "es2015": "caetvic-buttoner.js",
+  "typings": "caetvic-buttoner.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.1",
+    "rxjs": "^5.3.0",
+    "zone.js": "^0.8.5"
+  }
+}
